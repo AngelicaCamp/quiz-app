@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-app">Aplicação</a>   | 
-  <a href="#tecnologias">Tecnologias</a>   |   
+  <a href="#-tecnologias">Tecnologias</a>   |   
   <a href="#-page">Page</a>   
   </p>
 
