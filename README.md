@@ -1,24 +1,40 @@
-# Quiz
+<h1 align="center">Quiz de Perguntas</h1>
 
-[Tecnologias](#tecnologias) | [Page](#-page)
+<p align="center">
+  <a href="#-app">Aplicação</a>   | 
+  <a href="#tecnologias">Tecnologias</a>   |   
+  <a href="#-page">Page</a>   
+  </p>
+
+
+
+  
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src=".github/quiz.gif"> 
+    <img src="quiz.gif"> 
   </a>   
 </div>
 
-Quiz de perguntas sobre conhecimentos gerais . 
+</div>
+
+
+
+## ❓ App
+
+> Quiz de perguntas sobre conhecimentos gerais. 
+
+
 
 ## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - **HTML**
 
 - **Bootstrap**
 
 - **JavaScript**
+  
+  
 
 ## 🔖 Page
 
