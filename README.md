@@ -1,4 +1,4 @@
-<h1 align="center">Quiz de Perguntas</h1>
+<h1 align="center">Quiz</h1>
 
 <p align="center">
   <a href="#-app">Aplicação</a>   | 
@@ -22,7 +22,7 @@
 
 ## ❓ App
 
-> Quiz de perguntas sobre conhecimentos gerais. 
+> Quiz com perguntas e respostas sobre conhecimentos gerais. 
 
 
 
